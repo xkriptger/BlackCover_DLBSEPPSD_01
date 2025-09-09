@@ -21,13 +21,11 @@ Einfache Bedienung mit Floating Button.
 3. App auf Emulator oder physischem Gerät starten.
 4. Im Menü Start → BlackCover aktivieren.
 
-🛠️ Tech Stack
-– Programmiersprache: Kotlin
-– IDE: IntelliJ / Android Studio
-– UI/UX: Adobe XD (Wireframes)
-– Architektur: MVVM, UML-Diagramme
-– Agiles Modell: Scrumban
-– Tests: JUnit
+🛠️ Verwendete Technologien
+- Programmiersprache: Kotlin
+- IDE: IntelliJ IDEA / Android Studio
+- Architektur: MVVM (Model–View–ViewModel)
+- Testing: JUnit
 
 📂 Projektstruktur
 app/
