@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BlackCover</string>
+    <string name="there_is_a_problem_contact_support">There is a problem, contact support</string>
+    <string name="please_connect_your_phone_to_the_internet">Please connect your phone to the internet</string>
+    <string name="unknown_error_please_contact_support">Unknown error, please contact support</string>
+    <string name="blackcover">BlackCover</string>
+    <string name="unlock">UNLOCK</string>
+    <string name="watch_style">Watch Style</string>
+    <string name="buttons_style">Buttons Style</string>
+    <string name="tap_to_wake_up">Tap to Wake up</string>
+    <string name="always_on_display">Always on Display</string>
+    <string name="hide_floating_button">Hide floating button</string>
+    <string name="s_t_a_r_t">S T A R T</string>
+    <string name="s_t_o_p">S T O P</string>
+    <string name="skip_unlock_screen">Skip unlock screen</string>
+    <string name="update">Update</string>
+    <string name="get_black_cover_pro_no_ads_exclusive_features_premium_experience">Get Black Cover Pro: No ads, exclusive features, premium experience.</string>
+    <string name="upgrade_now">Upgrade now!</string>
+    <string name="yearly">Yearly</string>
+    <string name="_20_off">%20 Off</string>
+    <string name="billed_9_99_year_or_0_83_month">Billed €9.99/year or €0.83/month</string>
+    <string name="monthly">Monthly</string>
+    <string name="_0_99_month">0.99€/month</string>
+    <string name="lifetime">Lifetime</string>
+    <string name="_5_49_19_99_one_off">€5.49 €19.99 one-off!</string>
+    <string name="_10_99">€10.99</string>
+    <string name="cancel_your_subscription_at_any_time_in_the_play_store">Cancel your subscription at any time in the Play Store.\n</string>
+    <string name="purchases_are_automatically_restored">Purchases are automatically restored.\n</string>
+    <string name="use_your_subscription_on_multiple_devices_with_the_same_google_account">Use your subscription on multiple devices with the same Google Account.</string>
+
+</resources>
