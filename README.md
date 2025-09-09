@@ -6,10 +6,11 @@ BlackCover ist eine Android-App, die das Abspielen von YouTube-Musik im Hintergr
 
 🎯 Funktionen
 Startbildschirm mit Einstellungen:
-– Auswahl verschiedener Watch Styles (Uhrzeit-Anzeige).
-– Verschiedene Button Styles zur Aktivierung.
-– Option Tap-to-Wake (wie oft tippen zum Entsperren).
-– Option Skip Unlock Screen.
+
+- Auswahl verschiedener Watch Styles (Uhrzeit-Anzeige).
+- Verschiedene Button Styles zur Aktivierung.
+- Option Tap-to-Wake (wie oft tippen zum Entsperren).
+- Option Skip Unlock Screen.
 
 Vollbild-Black-Screen mit Uhrzeit.
 Energiesparmodus (kein Sleep).
