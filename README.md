@@ -12,10 +12,6 @@ Startbildschirm mit Einstellungen:
 - Option Tap-to-Wake (wie oft tippen zum Entsperren).
 - Option Skip Unlock Screen.
 
-Vollbild-Black-Screen mit Uhrzeit.
-Energiesparmodus (kein Sleep).
-Einfache Bedienung mit Floating Button.
-
 🚀 Installation & Nutzung
 1. Projekt in Android Studio öffnen.
 2. Gradle Sync ausführen.
