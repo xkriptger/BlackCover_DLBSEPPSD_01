@@ -42,4 +42,4 @@ build.gradle.kts
 settings.gradle.kts
 
 📚 Lizenz
-Dieses Projekt ist ausschließlich für Ausbildungszwecke im Rahmen des Moduls DLBSEPPSD01_D erstellt.
+Projekt ist im Rahmen des Moduls DLBSEPPSD01_D erstellt.
