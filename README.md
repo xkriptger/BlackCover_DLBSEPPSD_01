@@ -36,5 +36,4 @@ gradle/ (Gradle Wrapper)
 build.gradle.kts
 settings.gradle.kts
 
-📚 Lizenz
-Projekt ist im Rahmen des Moduls DLBSEPPSD01_D erstellt.
+📚 Projekt ist im Rahmen des Moduls DLBSEPPSD01_D erstellt.
