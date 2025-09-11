@@ -1,10 +1,10 @@
-📱 BlackCover – Android App
+BlackCover – Android App
 
-📝 Projektbeschreibung
+Projektbeschreibung
 
 BlackCover ist eine Android-App, die das Abspielen von YouTube-Musik im Hintergrund komfortabler macht.
 
-🎯 Funktionen
+Funktionen
 Startbildschirm mit Einstellungen:
 
 - Auswahl verschiedener Watch Styles (Uhrzeit-Anzeige).
@@ -12,19 +12,19 @@ Startbildschirm mit Einstellungen:
 - Option Tap-to-Wake (wie oft tippen zum Entsperren).
 - Option Skip Unlock Screen.
 
-🚀 Installation & Nutzung
+Installation & Nutzung
 1. Projekt in Android Studio öffnen.
 2. Gradle Sync ausführen.
 3. App auf Emulator oder physischem Gerät starten.
 4. Im Menü Start → BlackCover aktivieren.
 
-🛠️ Verwendete Technologien
+Verwendete Technologien
 - Programmiersprache: Kotlin
 - IDE: IntelliJ IDEA / Android Studio
 - Architektur: MVVM (Model–View–ViewModel)
 - Testing: JUnit
 
-📂 Projektstruktur
+Projektstruktur
 app/
  └── src/
       └── main/
@@ -36,7 +36,7 @@ gradle/ (Gradle Wrapper)
 build.gradle.kts
 settings.gradle.kts
 
-📚 Projekt wurde im Rahmen des Moduls DLBSEPPSD01_D erstellt.
+Projekt wurde im Rahmen des Moduls DLBSEPPSD01_D erstellt.
 - Vorgelegt von Soheil Bashardoust
 - Modul: Projekt: Software Development (DLBSEPPSD01_D)
 - Turor: Prof. Dr. Christian Remfert
